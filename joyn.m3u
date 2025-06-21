@@ -1,102 +1,136 @@
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png",Das Erste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=daserste-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ZDF.png",ZDF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=zdf-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="ZDF neo" tvg-id="zdf.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/2NEO.png",ZDF neo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=zdfneo-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png",3Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=3sat-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/K1.png",Kabel Eins
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kabeleins-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1.png",SAT.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sat1-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SIXX.png",sixx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sixx-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/PRO7.png",ProSieben
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosieben-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="ProSieben MAXX" tvg-id="prosiebenmaxx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/PRO7M.png",ProSieben MAXX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosiebenmaxx-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ndr-hh-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png",MDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=mdr-thueringen-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="WDR" tvg-id="wdr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png",WDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=wdr-bonn-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/SR.png",SR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sr-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="RBB" tvg-id="rbb.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RBB.png",RBB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=rbb-berlin-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="SWR" tvg-id="swr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SWR.png",SWR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=swr-rp-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="BR" tvg-id="br.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/BR.png",BR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=br-nord-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="HR" tvg-id="hr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/HR.png",HR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=hr-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="SAT.1 GOLD" tvg-id="sateinsgold.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1G.png",SAT.1 GOLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sat1gold-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="TLC" tvg-id="tlc.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/TLC.png",TLC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=tlc-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/PHOEN.png",Phoenix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=phoenix-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="One" tvg-id="one.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/FES.png",One
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=one-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARTE.png",Arte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=arte-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/KIKA.png",KiKa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kika-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="nickelodeon.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/NICK.png",Nickelodeon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=nickelodeon-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png",ARD+ALPHA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ard-alpha-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Comedy Central" tvg-id="comedycentral.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/comedycentral.png",Comedy Central
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=comedy-central-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Tele 5" tvg-id="tele5.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/TELE5.png",Tele 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=tele5-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="HGTV" tvg-id="hgtv.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/HGTV.png",HGTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=hgtv-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="RiC" tvg-id="ric.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RIC.png",RiC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=ric&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="AllgäuTV" tvg-id="allgautv.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/logos/allgaeutv.png",AllgaeuTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=allgaeu-tv-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="a.tv" tvg-id="a.tv.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ATV.png",a.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=a-tv-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="München TV" tvg-id="MunchenTV.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/TVM.png",München TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=muenchen-tv-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Deluxe Music" tvg-id="DeLuxeMusic.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/DMC.png",DELUXE MUSIC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=deluxe-de&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Sport1" tvg-id="Sport1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/S1PLU.png",Sport1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4.4.2; Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.105 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=sport1-de&stream_type=LIVE
