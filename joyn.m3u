@@ -1,3 +1,4 @@
+#EXTM3U
 #KODIPROP:inputstream.adaptive.min_bandwidth=1000000
 #KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png",Das Erste
