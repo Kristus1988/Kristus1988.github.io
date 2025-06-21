@@ -1,1143 +1,2285 @@
 #EXTM3U
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png" group-title="Baubau",RTL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL2.png" group-title="Baubau",RTL ZWEI
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL ZWEI
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL-N.png" group-title="Baubau",RTL NITRO
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL NITRO
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOX.png" group-title="Baubau",VOX
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=VOX
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOXUP.png" group-title="Baubau",VOX UP
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=VOX UP
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL-C.png" group-title="Baubau",RTL CRIME
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL CRIME
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL-L.png" group-title="Baubau",RTL LIVING
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL LIVING
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png" group-title="Baubau",RTL LUXEMBOURG
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL LUXEMBOURG
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/PASS.png" group-title="Baubau",RTL PASSION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL PASSION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png" group-title="Baubau",RTL UP
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL UP
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/TVNOW.png" group-title="Baubau",RTL+
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ROM.png" group-title="Baubau",ROMANCE TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ROMANCE TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/123TV.png" group-title="Baubau",1-2-3 TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=1-2-3 TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/13TH.png" group-title="Baubau",13TH STREET
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=13TH STREET
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",6EREN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=6EREN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/CRIN.png" group-title="Baubau",CRIME + INVESTIGATION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CRIME %2b INVESTIGATION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMAZONPPV.png" group-title="Baubau",AMAZON PRIME
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AMAZON PRIME
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMAZONPPV.png" group-title="Baubau",AMAZON PRIME VIDEO 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AMAZON PRIME VIDEO 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/APLAN.png" group-title="Baubau",ANIMAL PLANET
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ANIXE.png" group-title="Baubau",ANIXE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ANIXE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ARISTO TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ARISTO TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ATV2.png" group-title="Baubau",ATV 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ATV 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ATV.png" group-title="Baubau",AUGSBURG
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AUGSBURG
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/AMS.png" group-title="Baubau",AUTO MOTOR SPORT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AUTO MOTOR SPORT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",AXN WHITE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AXN WHITE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",AXN BLACK
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=AXN BLACK
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BABY TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BABY TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BADEN TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BADEN TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BERGBLICK
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BERGBLICK
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BIBEL TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BIBEL TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BIBEL TV MUSIK
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BIBEL TV MUSIK
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BIBELTV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BIBELTV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BILD TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BILD TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLK REGIONAL TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLK REGIONAL TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV ABENTEUER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV ABENTEUER
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV ACTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV ACTION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV BOLLYWOOD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV BOLLYWOOD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV DRAMA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV DRAMA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV FAMILIE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV FAMILIE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV FANTASY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV FANTASY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV HORROR
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV HORROR
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV KOM DIE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV KOM DIE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV KRIMI
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV KRIMI
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV LIEBESFILM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV LIEBESFILM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV MYSTERY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV MYSTERY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV SCI-FI
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV SCI-FI
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV THRILLER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV THRILLER
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV ACTION 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV ACTION 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV ACTION 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV ACTION 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV DOKUMENTARFILM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV DOKUMENTARFILM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV DRAMA 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV DRAMA 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV FAMILIE 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV FAMILIE 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV FAMILIE 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV FAMILIE 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV HISTORIE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV HISTORIE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV HORROR 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV HORROR 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV KOMODIE 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV KOMODIE 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV KRIMI 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV KRIMI 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV LIEBESFILM 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV LIEBESFILM 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV MARVEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV MARVEL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV MYSTERY 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV MYSTERY 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV SCIENCE-FICTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV SCIENCE-FICTION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BLUETV THRILLER 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BLUETV THRILLER 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BOLLYWOOD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BOLLYWOOD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BON GUSTO
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BON GUSTO
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",BOOMERANG
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=BOOMERANG
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CANAL 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CANAL 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CARTOON NETWORK
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CARTOONITO
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CARTOONITO
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CHANNEL 21
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CHANNEL 21
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CHEMNITZ FERNSEHEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CHEMNITZ FERNSEHEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CINE MAX JURASSIC PARK
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CINE MAX JURASSIC PARK
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CITY TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CITY TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CLASSICA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CLASSICA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CROTV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CROTV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 11
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 11
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 12
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 12
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 13
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 13
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 14
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 14
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 15
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 15
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 16
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 16
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 17
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 17
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 18
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 18
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 2 BAR
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 2 BAR
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN FAST+
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN FAST%2b
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN SPORT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN SPORT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DAZN SPORT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DAZN SPORT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DB LIGA 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DB LIGA 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DER AKTION R TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DER AKTION R TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DER AKTIONÄR TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DER AKTIONÄR TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DEUTSCHE SINEMA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DEUTSCHE SINEMA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DEUTSCHE SPORT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DEUTSCHE SPORT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DEUTSCHES MUSIK
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DEUTSCHES MUSIK
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DEUTSCHES MUSIK FERNSEHEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DEUTSCHES MUSIK FERNSEHEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DIE NEUE ZEIT TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DIE NEUE ZEIT TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DISCOVERY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DISCOVERY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DISNEY CHANNEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DISNEY CINEMAGIC
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DISNEY CINEMAGIC
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DISNEY JUNIOR
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DISNEY JUNIOR
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DISNEY PLUS FILM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DISNEY PLUS FILM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DISNEY XD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DISNEY XD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DISNEY+
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DISNEY%2b
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DK4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DK4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DMAX
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DMAX
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DOKUMENTATION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DOKUMENTATION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DR RAMASJANG
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DR RAMASJANG
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DR1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DR1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DR2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DR2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DRESDEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DRESDEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DW
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DW
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DW DEUTSCH
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DW DEUTSCH
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DW ENGLISH
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DW ENGLISH
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DW ESPAÑOL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DW ESPAÑOL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DW TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DW TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DYN SPORT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DYN SPORT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DYN SPORT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DYN SPORT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DYN SPORT 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DYN SPORT 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DYN SPORT 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DYN SPORT 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DYN SPORT 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DYN SPORT 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DYN SPORT 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DYN SPORT 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",DYN SPORT 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=DYN SPORT 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",E! ENTERTAINMENT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=E! ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",EAGLE BOLLYWOOD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=EAGLE BOLLYWOOD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",EAGLE MASHA UND DER B
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=EAGLE MASHA UND DER B
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",EAGLE PEPPA WUTZ
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=EAGLE PEPPA WUTZ
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",EAGLE PJ MASKS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=EAGLE PJ MASKS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ECHT JETZT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ECHT JETZT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",EDGE SPORT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=EDGE SPORT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ERZ TV STOLLBERG
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ERZ TV STOLLBERG
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ESPORTS 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ESPORTS 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",EURONEWS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=EURONEWS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",EUROSPORT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=EUROSPORT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",EUROSPORT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=EUROSPORT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",FC BAYERN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=FC BAYERN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",FEUERWEHRMANN SAM TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=FEUERWEHRMANN SAM TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",FIX & FOXI
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=FIX %26 FOXI
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",FOLX
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=FOLX
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY REPLAY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY REPLAY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",FRANKEN FERNSEHEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=FRANKEN FERNSEHEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",FS1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=FS1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GAME OF THRONES CHANNEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GAME OF THRONES CHANNEL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GENIUS PLUS TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GENIUS PLUS TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MOTORVISION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MOTORVISION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GEO TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GEO TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GERMANY BESONDERE 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GERMANY BESONDERE 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GERMANY BESONDERE 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GERMANY BESONDERE 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GERMANY BESONDERE 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GERMANY BESONDERE 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GERMANY KONIG FILME 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GERMANY KONIG FILME 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GERMANY KONIG FILME 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GERMANY KONIG FILME 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GERMANY KONIG FILME 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GERMANY KONIG FILME 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GERMANY KONIG FILME 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GERMANY KONIG FILME 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GERMANY KONIG FILME 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GERMANY KONIG FILME 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GO2 TRAVEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GO2 TRAVEL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",GOLDSTAR
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=GOLDSTAR
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",HEIMATKANAL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HEIMATKANAL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",HISTORY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HISTORY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",HSE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HSE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",HSE 24 EXTRA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HSE 24 EXTRA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",HSE 24 TREND
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HSE 24 TREND
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",HSE 24 TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HSE 24 TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",HSE EXTRA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HSE EXTRA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",HSE TREND
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=HSE TREND
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",INDIANA JONES CHANNEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=INDIANA JONES CHANNEL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",JUKEBOX
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=JUKEBOX
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",JUWELO
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=JUWELO
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",JUWELO TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=JUWELO TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",K-TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=K-TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KABEL 1 CLASSICS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KABEL 1 CLASSICS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KABEL 1 DOKU
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KABEL 1 DOKU
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KANAL 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KANAL 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KANAL 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KANAL 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KIEL TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KIEL TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KINDER SENDER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINDER SENDER
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KINDERM RCHEN 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINDERM RCHEN 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KINDERM RCHEN 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINDERM RCHEN 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KINOPORTAL 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINOPORTAL 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KINOPORTAL 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINOPORTAL 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KINOPORTAL 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINOPORTAL 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KINOPORTAL 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINOPORTAL 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KINOWELT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KINOWELT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KRONE HIT TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KRONE HIT TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",KULTUR MD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=KULTUR MD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",LIGHT CHANNEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=LIGHT CHANNEL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 11
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 11
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 12
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 12
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 13
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 13
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 14
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 14
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 15
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 15
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 16
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 16
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 17
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 17
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 18
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 18
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA FUSSBALL 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA FUSSBALL 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 11
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 11
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 12
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 12
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 13
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 13
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 14
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 14
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 15
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 15
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 18
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 18
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 20
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 20
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAGENTA SPORT 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAGENTA SPORT 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MASHA UND DER B R
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MASHA UND DER B R
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAX KINO
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX KINO
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAX KINO 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX KINO 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAX KINO 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX KINO 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MAX KINO COLLECTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MAX KINO COLLECTION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MDF 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MDF 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MORE THAN SPORTS TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MORE THAN SPORTS TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MOTORSPORT TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MOTORSPORT TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MOVIES CH
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MOVIES CH
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MR. BEAN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MR. BEAN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MTV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MTV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",MYTVPLUS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=MYTVPLUS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NTV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NTV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",N24 DOKU
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=N24 DOKU
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NACHRICHTEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NACHRICHTEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NATIONAL GEOGRAPHIC
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NATIONAL GEOGRAPHIC
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NAT GEO WILD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NAT GEO WILD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NBA TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NBA TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NICK EMMA EINFACH MAGISCH
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NICK EMMA EINFACH MAGISCH
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NICK JUNIOR
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NICK JUNIOR
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NICK/COMEDY CENTRAL+1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NICK/COMEDY CENTRAL%2b1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NICKTOONS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NICKTOONS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NIEDERBAYERN TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NIEDERBAYERN TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NIEDERBAYERN TV PASSAU
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NIEDERBAYERN TV PASSAU
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NIEDERBAYERN TV SATELLIT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NIEDERBAYERN TV SATELLIT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NOA 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NOA 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NOA 4 HAMBURG
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NOA 4 HAMBURG
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NOA 4 NORDERSTEDT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NOA 4 NORDERSTEDT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",NRWISION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=NRWISION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OBERLAUSITZ TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OBERLAUSITZ TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OBERPFALZ TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OBERPFALZ TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OE24.TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OE24.TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OF TV OFFENBACH
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OF TV OFFENBACH
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OFFENER KANAL MAGDEBURG
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OFFENER KANAL MAGDEBURG
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OK DESSAU
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OK DESSAU
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OK KONZERT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OK KONZERT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OK LUDWIGSHAFEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OK LUDWIGSHAFEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OK MERSEBURG
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OK MERSEBURG
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OK W1TRASSE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OK W1TRASSE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OKD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OKD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ONE MUSIC
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ONE MUSIC
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ONEBY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ONEBY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ORF 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ORF 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ORF 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ORF SPORT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ORF SPORT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",OTVA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=OTVA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PARAMOUNT NETWORK
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PARAMOUNT NETWORK
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PARANORMAL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PARANORMAL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PARLAMENTSFERNSEHEN 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PARLAMENTSFERNSEHEN 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PARLAMENTSFERNSEHEN 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PARLAMENTSFERNSEHEN 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PEARL TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PEARL TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PEER TV SÜDTIROL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PEER TV SÜDTIROL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PIRATES OF THE CARIBBEAN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PIRATES OF THE CARIBBEAN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PJ MASKS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PJ MASKS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PLANET
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PLANET
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PRO 7 FUN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PRO 7 FUN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PULS 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PULS 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",PUNKTUM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=PUNKTUM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",QVC
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=QVC
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",QVC 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=QVC 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",QVC LIVE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=QVC LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",QVC STYLE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=QVC STYLE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RAKUTEN ACTION MOVIES
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RAKUTEN ACTION MOVIES
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RAKUTEN COMEDY MOVIES
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RAKUTEN COMEDY MOVIES
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RAKUTEN COMEDY MOVIES 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RAKUTEN COMEDY MOVIES 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RAKUTEN SPOTLIGHT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RAKUTEN SPOTLIGHT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RAKUTEN TOP FREE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RAKUTEN TOP FREE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RAKUTEN TV SHOWS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RAKUTEN TV SHOWS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RAKUTEN TV SHOWS 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RAKUTEN TV SHOWS 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RAN 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RAN 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RBW
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RBW
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RED BULL TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RED BULL TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",REGIO TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=REGIO TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",REGIO TV BODENSEE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=REGIO TV BODENSEE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",REGIO TV SCHWABEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=REGIO TV SCHWABEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",REGIO TV STUTTGART
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=REGIO TV STUTTGART
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",REGIONALFERNSEHEN HARZ
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=REGIONALFERNSEHEN HARZ
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RENNSTEIG TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RENNSTEIG TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RFH TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RFH TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RFO
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RFO
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RFO ROSENHEIM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RFO ROSENHEIM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RHEIN NECKAR FERNSEHEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RHEIN NECKAR FERNSEHEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RHEINISCHE FACHHOCHSCHULE KÖLN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RHEINISCHE FACHHOCHSCHULE KÖLN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RHEINMAIN TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RHEINMAIN TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RNF
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RNF
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",RTL+ SPORT EVENT 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL%2b SPORT EVENT 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 11
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 11
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT F1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT F1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT GOLF
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT GOLF
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT MIX
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT MIX
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT NEWS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT NEWS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT PREMIER LEAGUE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT TENNIS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT TENNIS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",S. SPORT TOP EVENT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=S. SPORT TOP EVENT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SAARLAND FERNSEHEN 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SAARLAND FERNSEHEN 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SAARLAND FERNSEHEN 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SAARLAND FERNSEHEN 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SACHSEN 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SACHSEN 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SACHSEN FERNSEHEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SACHSEN FERNSEHEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SACHSEN1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SACHSEN1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SALVE TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SALVE TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SAT 1 EMOTIONS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SAT 1 EMOTIONS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SEENLUFT 24
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SEENLUFT 24
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SERVUS TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SERVUS TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SILVERLINE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SILVERLINE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY ONE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY ONE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY 24
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY 24
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA ACTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA ACTION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY ATLANTIC
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY ATLANTIC
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BEST OF
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BEST OF
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX ABENTEUER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX ABENTEUER
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX ACTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX ACTION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX BOLLYWOOD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX BOLLYWOOD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX DOCU
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX DOCU
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX DRAMA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX DRAMA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX FAMILIE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX FAMILIE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX FANTASY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX FANTASY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX HISTORIE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX HISTORIE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX HORROR
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX HORROR
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX KARATE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX KARATE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX KOMODIE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX KOMODIE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX KRIEGSFILM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX KRIEGSFILM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX KRIMI
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX KRIMI
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX LIEBESFILM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX LIEBESFILM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX MYSTERY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX MYSTERY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 11
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 11
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 12
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 12
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 13
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 13
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 14
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 14
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 15
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 15
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 16
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 16
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 17
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 17
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 18
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 18
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 19
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 19
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 20
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 20
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX PREMIEREN 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX PREMIEREN 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX SCI-FI
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX SCI-FI
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX THRILLER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX THRILLER
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BOX WESTERN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BOX WESTERN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY BUNDESLIGA1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY BUNDESLIGA1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA 1+
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA 1%2b
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA 24
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA 24
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA BEST
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA BEST
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA BEST OF
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA BEST OF
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA CLASSICS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA CLASSICS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY COMEDY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY COMEDY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CRIME
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CRIME
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY DOCUMENTARIES
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY DOCUMENTARIES
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA EMOTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA EMOTION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA FAMILY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA FAMILY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA FUN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA FUN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA HIGHLIGHTS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA HIGHLIGHTS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA HITS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA HITS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA PREMIEREN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA PREMIEREN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA PREMIEREN +24
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA PREMIEREN %2b24
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA SPECIAL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA SPECIAL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY CINEMA THRILLER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY CINEMA THRILLER
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY FUN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY FUN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY JUNIOR
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY JUNIOR
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY KRIMI
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY KRIMI
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY NATURE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY NATURE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY POPCORN SELECT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY POPCORN SELECT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY POPCORN SELECT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY POPCORN SELECT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY POPCORN SELECT 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY POPCORN SELECT 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY POPCORN SELECT 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY POPCORN SELECT 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY POPCORN SELECT 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY POPCORN SELECT 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 09
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 09
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 1 BOX
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 1 BOX
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 11
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 11
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 12
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 12
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 13
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 13
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 14
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 14
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 15
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 15
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 11
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 11
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 12
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 12
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 13
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 13
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 14
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 14
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 17
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 17
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SELECT PREMIERE 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SELECT PREMIERE 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SERIEN & SHOWS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SERIEN %26 SHOWS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SERIEN&SHOWS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SERIEN%26SHOWS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SHOWCASE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SHOWCASE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPECIAL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPECIAL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 11
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 11
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT 9
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT 9
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT F1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT F1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT GOLF
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT GOLF
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT MIX
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT MIX
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT NEWS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT NEWS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT PREMIER LEAGUE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT PREMIERE LEAGUE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT PREMIERE LEAGUE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT TENNIS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT TENNIS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORT TOP EVENT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORT TOP EVENT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY SPORTS F1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY SPORTS F1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SKY THRILLER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY THRILLER
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SONNENKLAR TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SONNENKLAR TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SONUS FM ALEMANIA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SONUS FM ALEMANIA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPIEGEL GESCHICHTE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPIEGEL GESCHICHTE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",CURIOSITY CHANNEL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=CURIOSITY CHANNEL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPONGEBOB
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPONGEBOB
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPORT 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPORT 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPORT 1+
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPORT 1%2b
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPORT DIGITAL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPORT DIGITAL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPORT1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPORT1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPORT1+
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPORT1%2b
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPORTDIGITAL FUSSBALL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPORTDIGITAL FUSSBALL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SPORTDIGITALL FUSSBALL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SPORTDIGITALL FUSSBALL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",STERN FILME 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=STERN FILME 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",STERN FILME 10
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=STERN FILME 10
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",STERN FILME 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=STERN FILME 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",STERN FILME 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=STERN FILME 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",STERN FILME 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=STERN FILME 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",STERN FILME 5
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=STERN FILME 5
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",STERN FILME 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=STERN FILME 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",STINGRAY CLASSICA
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=STINGRAY CLASSICA
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SUPER RTL
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SUPER RTL
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",SYFY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SYFY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TAGESSCHAU 24
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TAGESSCHAU 24
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TASTEMADE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TASTEMADE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TEEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TEEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TELEKOM BUNDESLIGA 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TELEKOM BUNDESLIGA 1
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TELEKOM BUNDESLIGA 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TELEKOM BUNDESLIGA 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TELEKOM BUNDESLIGA 3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TELEKOM BUNDESLIGA 3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TELEKOM BUNDESLIGA 4
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TELEKOM BUNDESLIGA 4
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TELEKOM BUNDESLIGA 6
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TELEKOM BUNDESLIGA 6
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TELEKOM BUNDESLIGA 7
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TELEKOM BUNDESLIGA 7
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TELEKOM BUNDESLIGA 8
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TELEKOM BUNDESLIGA 8
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WARNER TV COMEDY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER TV COMEDY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WARNER TV FILM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER TV FILM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WARNER TV SERIE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WARNER TV SERIE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TOGGO PLUS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TOGGO PLUS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TOM AND JERRY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TOM AND JERRY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TOTALLY TURTLES
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TOTALLY TURTLES
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 / BORNHOLM
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 / BORNHOLM
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 / FYN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 / FYN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 / MIDT-VEST
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 / MIDT-VEST
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 / NORD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 / NORD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 / ØST
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 / ØST
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 / ØSTJYLLAND
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 / ØSTJYLLAND
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 / SYD
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 / SYD
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 CHARLIE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 CHARLIE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 FRI
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 FRI
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 NEWS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 NEWS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV 2 ZULU
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV 2 ZULU
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV INGOLSTADT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV INGOLSTADT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV MAINFRANKEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV MAINFRANKEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV OBERFRANKEN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV OBERFRANKEN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV3
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV3
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV3 MAX
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV3 MAX
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV3 SPORT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV3 SPORT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TV3+
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TV3%2b
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",TVA OSTBAYERN
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=TVA OSTBAYERN
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",UNIVERSAL TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=UNIVERSAL TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",V FILM ACTION
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=V FILM ACTION
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",V FILM FAMILY
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=V FILM FAMILY
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",V FILM HITS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=V FILM HITS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",V FILM PREMIERE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=V FILM PREMIERE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",VH1 CLASSIC
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=VH1 CLASSIC
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",VIASAT EXPLORE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=VIASAT EXPLORE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",VIASAT NATURE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=VIASAT NATURE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",VICTORIOUS
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=VICTORIOUS
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WAIDWERK
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WAIDWERK
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WAIDWERK TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WAIDWERK TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WELT
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WELT
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WELT DER WUNDER
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WELT DER WUNDER
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WETTIN TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WETTIN TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WORLD POKER TOUR
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WORLD POKER TOUR
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",WWE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=WWE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",XITE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=XITE
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",YAKARI TV
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=YAKARI TV
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ZDF INFO
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ZDF INFO
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-logo="" group-title="Baubau",ZDF NEO
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=ZDF NEO
