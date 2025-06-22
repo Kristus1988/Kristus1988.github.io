@@ -1,6 +1,10 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.min_bandwidth=1000000
 #KODIPROP:inputstream.adaptive.max_bandwidth=1500000
+#EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Joyn" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
+plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22RTL+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22RTL+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-740.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22RTL+DE%22%7D
+#KODIPROP:inputstream.adaptive.min_bandwidth=1000000
+#KODIPROP:inputstream.adaptive.max_bandwidth=1500000
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png",Das Erste
 plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=daserste-de-hd&stream_type=LIVE
 #KODIPROP:inputstream.adaptive.min_bandwidth=1000000
