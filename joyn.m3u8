@@ -1,0 +1,17 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.min_bandwidth=100000
+#KODIPROP:inputstream.adaptive.max_bandwidth=500000
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png",Das Erste
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=daserste-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=100000
+#KODIPROP:inputstream.adaptive.max_bandwidth=500000
+#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ZDF.png",ZDF
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=zdf-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=100000
+#KODIPROP:inputstream.adaptive.max_bandwidth=500000
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="prosieben.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ProSieben.png",ProSieben
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=prosieben-de-hd&stream_type=LIVE
+#KODIPROP:inputstream.adaptive.min_bandwidth=100000
+#KODIPROP:inputstream.adaptive.max_bandwidth=500000
+#EXTINF:-1 tvg-name="kabel eins" tvg-id="kabeleins.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/KabelEins.png",kabel eins
+plugin://plugin.video.joyn/?mode=play_video&channel_id=&movie_id=&tv_show_id=&season_id=&video_id=kabeleins-de-hd&stream_type=LIVE
