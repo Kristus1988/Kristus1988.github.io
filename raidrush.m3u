@@ -1,33 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png" group-title="Daddylive2",RTL
-plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22RTL+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22RTL+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-740.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22RTL+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/PRO7.png" group-title="Daddylive2",ProSieben
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png" group-title="RaidRush",RTL
+https://s55.tv24livestream.de/conv/go/rtl1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL2.png" group-title="RaidRush",RTL2
+https://s7.cryptstream.de/conv/go/rtl2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/PRO7.png" group-title="RaidRush",ProSieben
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22ProSieben+%28PRO7%29+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22ProSieben+%28PRO7%29+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-730.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22ProSieben+%28PRO7%29+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SAT1.png" group-title="Daddylive2",SAT.1
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SAT1.png" group-title="RaidRush",SAT.1
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22SAT.1+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22SAT.1+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-729.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22SAT.1+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/MDR.png" group-title="Daddylive2",MDR
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/MDR.png" group-title="RaidRush",MDR
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22MDR+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22MDR+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-733.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22MDR+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ARTE.png" group-title="Daddylive2",ARTE
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ARTE.png" group-title="RaidRush",ARTE
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Arte+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22Arte+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-725.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Arte+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SUPER.png" group-title="Daddylive2",SUPER RTL
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SUPER.png" group-title="RaidRush",SUPER RTL
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22SUPER+RTL+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22SUPER+RTL+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-738.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22SUPER+RTL+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/3SAT.png" group-title="Daddylive2",3SAT
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/3SAT.png" group-title="RaidRush",3SAT
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%223sat+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%223sat+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-726.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%223sat+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SIXX.png" group-title="Daddylive2",SIXX
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SIXX.png" group-title="RaidRush",SIXX
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Sixx+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22Sixx+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-732.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Sixx+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/PRO7M.png" group-title="Daddylive2",PRO7MAXX
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/PRO7M.png" group-title="RaidRush",PRO7MAXX
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22SWR+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22SWR+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-735.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22SWR+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/DAZN.png" group-title="Daddylive2",DAZN 1 BAR
-plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22DAZN+1+Bar+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22DAZN+1+Bar+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-426.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22DAZN+1+Bar+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/DAZN.png" group-title="Daddylive2",DAZN 2 BAR
-plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22DAZN+2+Bar+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22DAZN+2+Bar+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-427.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22DAZN+2+Bar+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SKYSTE.png" group-title="Daddylive2",Sky Sport Top Event DE
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ARD.png" group-title="RaidRush",ARD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master360p1200.m3u8
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/ZDF.png" group-title="RaidRush",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SKYSTE.png" group-title="RaidRush",Sky Sport Top Event DE
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Sky+Sport+Top+Event+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22Sky+Sport+Top+Event+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-556.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Sky+Sport+Top+Event+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SKYSTE.png" group-title="Daddylive2",Sky Sport Mix DE
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SKYSTE.png" group-title="RaidRush",Sky Sport Mix DE
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Sky+Sport+Mix+DE%22%2C+%22link%22%3A+%22%5B%5B%5C%22Sky+Sport+Mix+DE%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-557.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Sky+Sport+Mix+DE%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SKYSTE.png" group-title="Daddylive2",Sky Sport Bundesliga 1 HD
-plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Sky+Sport+Bundesliga+1+HD%22%2C+%22link%22%3A+%22%5B%5B%5C%22Sky+Sport+Bundesliga+1+HD%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-558.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Sky+Sport+Bundesliga+1+HD%22%7D#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/PRO7.png" group-title="Daddylive2",ProSieben
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SKYSTE.png" group-title="Daddylive2",Sky Sport Austria 1 HD
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SKYSTE.png" group-title="RaidRush",Sky Sport Bundesliga 1 HD
+plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Sky+Sport+Bundesliga+1+HD%22%2C+%22link%22%3A+%22%5B%5B%5C%22Sky+Sport+Bundesliga+1+HD%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-558.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Sky+Sport+Bundesliga+1+HD%22%7D#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/PRO7.png" group-title="RaidRush",ProSieben
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SKYSTE.png" group-title="RaidRush",Sky Sport Austria 1 HD
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Sky+Sport+Austria+1+HD%22%2C+%22link%22%3A+%22%5B%5B%5C%22Sky+Sport+Austria+1+HD%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-559.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Sky+Sport+Austria+1+HD%22%7D
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SPORT.png" group-title="Daddylive2",Sport 1
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SPORT.png" group-title="RaidRush",Sport 1
 plugin://plugin.video.dlv2/play_video/%7B%22type%22%3A+%22item%22%2C+%22title%22%3A+%22Sport1+Germany%22%2C+%22link%22%3A+%22%5B%5B%5C%22Sport1+Germany%5C%22%2C+%5C%22https%3A%2F%2Fdaddylive.dad%2Fstream%2Fstream-641.php%5C%22%5D%5D%22%2C+%22summary%22%3A+%22Sport1+Germany%22%7D
+
+
+zdf
+RTL
+RTL 2
+kabel‑eins
+sat 1
+prosieben
+vox
+prosieben‑maxx
+sixx
+sat1‑gold
+dmax
+kabel‑eins‑doku
+tele‑5
+rtl‑nitro
+zdf‑neo
+one
+servus‑tv
+orf‑1
+orf‑2
+3sat
+arte
+br
+hr
+wdr
+ndr
+mdr
+swr
+sr
+rbb
+radio‑bremen‑tv
+phoenix
+alpha
+welt
+ntv
+tagesschau24
+zdf‑info
+deutsche‑welle
+alex
+welt‑der‑wunder‑tv
+sport1
+redbull
+kika
+nickelodeon
+comedy‑central
+disney‑channel
+super‑rtl
+tlc
+hgtv
+srf2
+voxup
+rtlup
+deluxe‑music
+df1
+eurosport 1
