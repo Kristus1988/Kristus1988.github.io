@@ -364,7 +364,7 @@
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-logo="" group-title="Vavoo",JUWELO TVplugin://plugin.video.vavooto/?action=&group=Germany&name=JUWELO TV#KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
-#EXTINF:-1 tvg-logo="" group-title="Vavoo",K-TVplugin://plugin.video.vavooto/?action=&group=Germany&name=K-TV#KODIPROP:inputstream.adaptive.min_bandwidth=100000
+#EXTINF:-1 tvg-logo="" group-title="Vavoo",K-TVplugin://plugin.video.vavooto/?action=&group=Germany&name=K-TV#KODIPROP:inputstream.adaptive.min_bandwidth=100000#KODIPROP:inputstream.adaptive.max_bandwidth=500000#EXTINF:-1 tvg-logo="" group-title="Vavoo",KABEL 1plugin://plugin.video.vavooto/?action=&group=Germany&name=KABEL 1#KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-logo="" group-title="Vavoo",KABEL 1 CLASSICSplugin://plugin.video.vavooto/?action=&group=Germany&name=KABEL 1 CLASSICS#KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
