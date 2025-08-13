@@ -74,7 +74,7 @@ plugin://plugin.video.ardundzdf/?action=playVideo&name=KiKA&url=https://kika-liv
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png",ARD+ALPHA
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_640p_1200.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="TLC" tvg-id="hgtv.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/TLC.png",TLC
