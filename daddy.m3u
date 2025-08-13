@@ -30,15 +30,15 @@ plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/st
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-736.php
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png",MDR
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-733.php
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="WDR" tvg-id="wdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png",WDR
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-734.php
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/logos/SR.png",SR
