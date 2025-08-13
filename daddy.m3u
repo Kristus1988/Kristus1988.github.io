@@ -50,7 +50,7 @@ https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/maste
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="SWR" tvg-id="swr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SWR.png",SWR
-plugin://plugin.video.ardundzdf/?action=playLiveStream&path=https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="BR" tvg-id="br.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/BR.png",BR
