@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/RTL2.png" group-title="Vavoo",RTL ZWEIplugin://plugin.video.vavooto/?action=&group=Germany&name=RTL 2#KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
-#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOX.png" group-title="Vavoo",VOXplugin://plugin.video.vavooto/?action=&group=Germany&name=VOX#KODIPROP:inputstream.adaptive.min_bandwidth=100000
+#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOX.png" group-title="Vavoo",VOXplugin://plugin.video.vavooto/?action=&group=Germany&name=VOX#KODIPROP:inputstream.adaptive.min_bandwidth=100000#KODIPROP:inputstream.adaptive.max_bandwidth=500000#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/K1.png" group-title="Vavoo",KABEL 1plugin://plugin.video.vavooto/?action=&group=Germany&name=KABEL 1#KODIPROP:inputstream.adaptive.min_bandwidth=100000#KODIPROP:inputstream.adaptive.max_bandwidth=500000#EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/SAT1.png" group-title="Vavoo",SAT 1plugin://plugin.video.vavooto/?action=&group=Germany&name=SAT 1#KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-logo="https://kristus1988.github.io/tvs-logos/VOXUP.png" group-title="Vavoo",VOX UPplugin://plugin.video.vavooto/?action=&group=Germany&name=VOX UP#KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
