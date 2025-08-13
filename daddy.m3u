@@ -14,7 +14,7 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/K1.png",Kabel Eins
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-731.php
+https://s6.hopslan.com/kabel1X/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1.png",SAT.1
@@ -22,11 +22,11 @@ plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/st
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SIXX.png",sixx
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-732.php
+https://strm.hdtvizlecanli.com/live/six.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/PRO7.png",ProSieben
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-730.php
+https://s6.hopslan.com/pro7X/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
