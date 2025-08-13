@@ -30,15 +30,15 @@ plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/st
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_360.m3u8
+plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-736.php
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png",MDR
-https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master360p1200.m3u8
+plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-733.php
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="WDR" tvg-id="wdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png",WDR
-https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master-360p-1200.m3u8
+plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-734.php
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/logos/SR.png",SR
