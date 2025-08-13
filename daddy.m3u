@@ -30,39 +30,39 @@ plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/st
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-736.php
+https://ndr-live.ard-mcdn.de/ndr/ndrhd/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png",MDR
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-733.php
+https://mdr-live.ard-mcdn.de/mdr/fernsehen/live/hls/de/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="WDR" tvg-id="wdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png",WDR
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-734.php
+https://wdr-live.ard-mcdn.de/wdr/wdrhd/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/logos/SR.png",SR
-https://srde.akamaized.net/hls/live/689649/srfsgeo/master-540p-1728.m3u8
+https://srde.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="RBB" tvg-id="rbb.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RBB.png",RBB
-https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master720p3200.m3u8
+https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="SWR" tvg-id="swr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SWR.png",SWR
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-735.php
+https://swrfs.akamaized.net/hls/live/2016487/swrfsgeo/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="BR" tvg-id="br.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/BR.png",BR
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-737.php
+https://brlive-lh.akamaihd.net/i/bfs_live@119898/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="HR" tvg-id="hr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/HR.png",HR
-https://hr-live.ard-mcdn.de/hr/live/hls/de/mastersubs.m3u8
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/PHOEN.png",Phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/69bd0487ff6537be960c6b2e71ca15db/7/7.m3u8
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARTE.png",Arte
@@ -74,7 +74,7 @@ plugin://plugin.video.ardundzdf/?action=playVideo&name=KiKA&url=https://kika-liv
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png",ARD+ALPHA
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_640p_1200.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="Tele 5" tvg-id="tele5.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/TELE5.png",Tele 5
