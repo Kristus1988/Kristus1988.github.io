@@ -6,7 +6,7 @@ plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/st
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ZDF.png",ZDF
-https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/ce8cf4adddd0b27a6d48eb1ace83eff1/4/4.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png",3Sat
