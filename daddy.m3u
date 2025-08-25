@@ -86,7 +86,7 @@ https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Daddy" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-740.php
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #KODIPROP:inputstream.adaptive.min_bandwidth=100000
 #KODIPROP:inputstream.adaptive.max_bandwidth=500000
 #EXTINF:-1 tvg-name="RTL2" tvg-id="hgtv.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
