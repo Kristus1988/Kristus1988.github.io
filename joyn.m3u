@@ -67,7 +67,7 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=muenchen-tv-hd&stream_type=
 plugin://plugin.video.joyn/?mode=play_video&video_id=deluxe-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="Sport1" tvg-id="Sport1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/S1PLU.png",Sport1
 plugin://plugin.video.joyn/?mode=play_video&video_id=sport1-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="Moviedome" tvg-id="moviedome.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/JOYN.png",Moviedome
+#EXTINF:-1 tvg-name="Moviedome" tvg-id="moviedome.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MOVTV.png",Moviedome
 plugin://plugin.video.joyn/?mode=play_video&video_id=moviedome-family-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="DYN Sportmix" tvg-id="dynsportmix.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/EOTV.png",Dyn Sportmix
 plugin://plugin.video.joyn/?mode=play_video&video_id=dyn-sportmix-hd&stream_type=LIVE
