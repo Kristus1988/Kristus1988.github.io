@@ -67,6 +67,12 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=muenchen-tv-hd&stream_type=
 plugin://plugin.video.joyn/?mode=play_video&video_id=deluxe-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="Sport1" tvg-id="Sport1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/S1PLU.png",Sport1
 plugin://plugin.video.joyn/?mode=play_video&video_id=sport1-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="Moviedome" tvg-id="moviedome.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/JOYN.png",Moviedome
+plugin://plugin.video.joyn/?mode=play_video&video_id=moviedome-family-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="DYN Sportmix" tvg-id="dynsportmix.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/EOTV.png",Dyn Sportmix
+plugin://plugin.video.joyn/?mode=play_video&video_id=dyn-sportmix-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="Just Cooking" tvg-id="justcooking.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/JOYN.png",Just Cooking
+plugin://plugin.video.joyn/?mode=play_video&video_id=justcooking-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Joyn" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-name="RTL2" tvg-id="hgtv.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
