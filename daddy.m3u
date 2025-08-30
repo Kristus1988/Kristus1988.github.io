@@ -8,7 +8,7 @@ https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/K1.png",Kabel Eins
 https://s6.mysql-export-crypt.de/conv/go/kabel-eins/chunks.m3u81a.doc
 #EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1.png",SAT.1
-plugin://plugin.video.daddylive/?mode=play&url=https://thedaddy.click//stream/stream-729.php
+https://strm.hdtvizlecanli.com/live/sat1.m3u8
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SIXX.png",sixx
 https://strm.hdtvizlecanli.com/live/six.m3u8
 #EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/PRO7.png",ProSieben
@@ -32,9 +32,9 @@ https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/PHOEN.png",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 #EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARTE.png",Arte
-https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v360.m3u8
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 #EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/KIKA.png",KiKa
-plugin://plugin.video.ardundzdf/?action=playVideo&name=KiKA&url=https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png",ARD+ALPHA
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="hgtv.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/TLC.png",TLC
