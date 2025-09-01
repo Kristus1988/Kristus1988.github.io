@@ -6,7 +6,7 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png",3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/K1.png",Kabel Eins
-https://s6.mysql-export-crypt.de/conv/go/kabel-eins/chunks.m3u81a.doc
+https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 #EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1.png",SAT.1
 https://strm.hdtvizlecanli.com/live/sat1.m3u8
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SIXX.png",sixx
