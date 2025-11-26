@@ -69,11 +69,11 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=deluxe-de&stream_type=LIVE
 plugin://plugin.video.joyn/?mode=play_video&video_id=sport1-de&stream_type=LIVE
 #EXTINF:-1 tvg-name="Moviedome" tvg-id="moviedome.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MOVTV.png",Moviedome
 plugin://plugin.video.joyn/?mode=play_video&video_id=moviedome-family-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="Top Filme" tvg-id="topfilme.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MOVTV.png",Moviedome
+#EXTINF:-1 tvg-name="Top Filme" tvg-id="topfilme.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MOVTV.png",Top Filme
 plugin://plugin.video.joyn/?mode=play_video&video_id=top-filme-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="Free Comedy" tvg-id="free-comedy-hd.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MOVTV.png",Moviedome
+#EXTINF:-1 tvg-name="Free Comedy" tvg-id="free-comedy-hd.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MOVTV.png",Free Comedy
 plugin://plugin.video.joyn/?mode=play_video&video_id=free-comedy-hd&stream_type=LIVE
-#EXTINF:-1 tvg-name="Scooore" tvg-id="scooore-hd.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MOVTV.png",Moviedome
+#EXTINF:-1 tvg-name="Scooore" tvg-id="scooore-hd.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/MOVTV.png",Scooore
 plugin://plugin.video.joyn/?mode=play_video&video_id=scooore-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="DYN Sportmix" tvg-id="dynsportmix.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/EOTV.png",Dyn Sportmix
 plugin://plugin.video.joyn/?mode=play_video&video_id=dyn-sportmix-hd&stream_type=LIVE
