@@ -22,7 +22,6 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/540p.m3u8
 
 #EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/logos/SR.png",SR
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-360p-1328.m3u8
-# (SR hat nur 360p – keine 480p-Stufe verfügbar)
 
 #EXTINF:-1 tvg-name="RBB" tvg-id="rbb.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RBB.png",RBB
 https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/low/master.m3u8
@@ -47,7 +46,6 @@ https://kika-live.ard-mcdn.de/kika/live/hls/de/540p.m3u8
 
 #EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png",ARD+ALPHA
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/540p.m3u8
-
 
 
 # ---------------- Private / Geschützte Streams (MIT User-Agent) ----------------
