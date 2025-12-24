@@ -90,8 +90,8 @@ https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 
 #EXTINF:-1 tvg-name="SuperRTL" tvg-id="superrtl.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SUPER.png",SuperRTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://s6.hopslan.com/
-https://s6.hopslan.com/superX/index.m3u8
+#EXTVLCOPT:http-referrer=https://strm.hdtvizlecanli.com/live/
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 
 #EXTINF:-1 tvg-name="ORF1" tvg-id="orf1.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ORF1.png",ORF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
