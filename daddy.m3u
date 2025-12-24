@@ -1,16 +1,54 @@
 #EXTM3U
 
+# ---------- Öffentlich‑rechtliche (OHNE User-Agent) ----------
+
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png",Das Erste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://strm.hdtvizlecanli.com/live/ard1.m3u8
 
 #EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ZDF.png",ZDF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://strm.hdtvizlecanli.com/live/zdf.m3u8
 
 #EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png",3Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+
+#EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png",MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR" tvg-id="wdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png",WDR
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+
+#EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/logos/SR.png",SR
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-360p-1328.m3u8
+
+#EXTINF:-1 tvg-name="RBB" tvg-id="rbb.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RBB.png",RBB
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR" tvg-id="swr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SWR.png",SWR
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+
+#EXTINF:-1 tvg-name="BR" tvg-id="br.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/BR.png",BR
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="HR" tvg-id="hr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/HR.png",HR
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/PHOEN.png",Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARTE.png",Arte
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/KIKA.png",KiKa
+https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png",ARD+ALPHA
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+
+# ---------- Private / Inoffizielle Streams (MIT User-Agent) ----------
 
 #EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/K1.png",Kabel Eins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
@@ -32,54 +70,6 @@ https://strm.hdtvizlecanli.com/live/pro7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://strm.hdtvizlecanli.com/live/vox.m3u8
 
-#EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-
-#EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png",MDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR" tvg-id="wdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png",WDR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-
-#EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/logos/SR.png",SR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-360p-1328.m3u8
-
-#EXTINF:-1 tvg-name="RBB" tvg-id="rbb.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RBB.png",RBB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-
-#EXTINF:-1 tvg-name="SWR" tvg-id="swr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SWR.png",SWR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-
-#EXTINF:-1 tvg-name="BR" tvg-id="br.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/BR.png",BR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-
-#EXTINF:-1 tvg-name="HR" tvg-id="hr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/HR.png",HR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
-
-#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/PHOEN.png",Phoenix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-
-#EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARTE.png",Arte
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-
-#EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/KIKA.png",KiKa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
-
-#EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png",ARD+ALPHA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-
 #EXTINF:-1 tvg-name="TLC" tvg-id="hgtv.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/TLC.png",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
@@ -98,7 +88,7 @@ https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 
 #EXTINF:-1 tvg-name="SuperRTL" tvg-id="superrtl.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SUPER.png",SuperRTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://s6.hopslan.com/superX/index.m3u8
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 
 #EXTINF:-1 tvg-name="ORF1" tvg-id="orf1.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ORF1.png",ORF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
