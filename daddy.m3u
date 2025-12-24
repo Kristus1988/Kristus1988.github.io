@@ -48,7 +48,7 @@ https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-name="RTL2" tvg-id="hgtv.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 #EXTINF:-1 tvg-name="SuperRTL" tvg-id="superrtl.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SUPER.png",SuperRTL
-https://s6.mysql-export-crypt.de/conv/go/super-rtl/chunks.m3u81a.doc
+https://strm.hdtvizlecanli.com/live/superrtl.m3u8
 #EXTINF:-1 tvg-name="ORF1" tvg-id="orf1.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ORF1.png",ORF1
 https://strm.hdtvizlecanli.com/live/orf1.m3u8
 #EXTINF:-1 tvg-name="ORF2" tvg-id="orf2.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ORF2.png",ORF2
