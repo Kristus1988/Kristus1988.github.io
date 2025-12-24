@@ -1,6 +1,6 @@
 #EXTM3U
 
-# ---------- Öffentlich‑rechtliche (OHNE User-Agent) ----------
+# ---------------- Öffentlich‑rechtliche (OHNE User-Agent) ----------------
 
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png",Das Erste
 https://strm.hdtvizlecanli.com/live/ard1.m3u8
@@ -48,7 +48,7 @@ https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
 
-# ---------- Private / Inoffizielle Streams (MIT User-Agent) ----------
+# ---------------- Private / Geschützte Streams (MIT User-Agent) ----------------
 
 #EXTINF:-1 tvg-name="Kabel Eins" tvg-id="Kabel.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/K1.png",Kabel Eins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
@@ -72,23 +72,26 @@ https://strm.hdtvizlecanli.com/live/vox.m3u8
 
 #EXTINF:-1 tvg-name="TLC" tvg-id="hgtv.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/TLC.png",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://s6.hopslan.com/
 https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Tele 5" tvg-id="tele5.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/TELE5.png",Tele 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://s6.hopslan.com/
 https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Daddy" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
-#EXTINF:-1 tvg-name="RTL2" tvg-id="hgtv.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
+#EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://strm.hdtvizlecanli.com/live/rtl2.m3u8
 
 #EXTINF:-1 tvg-name="SuperRTL" tvg-id="superrtl.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SUPER.png",SuperRTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://s6.hopslan.com/
+https://s6.hopslan.com/superX/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF1" tvg-id="orf1.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ORF1.png",ORF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
