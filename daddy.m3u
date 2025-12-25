@@ -1,51 +1,52 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/josxha/german-tv-m3u/main/epg.xml" tvg-shift=0
 
-# ---------------- Öffentlich‑rechtliche (OHNE User-Agent) ----------------
+# ---------------- Öffentlich-rechtliche Kanäle ----------------
 
-#EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png",Das Erste
-https://mcdn.ard.de/ard/live/ard/540p.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png" group-title="Öffentlich",Das Erste
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/daserste.m3u8
 
-#EXTINF:-1 tvg-name="ZDF" tvg-id="zdf.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ZDF.png",ZDF
-https://zdf-hls-18.akamaized.net/hls/live/2016501/de/480p.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD" tvg-logo="https://Kristus1988.github.io/tvs-logos/ZDF.png" group-title="Öffentlich",ZDF HD
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/zdf.m3u8
 
-#EXTINF:-1 tvg-name="3Sat" tvg-id="3sat.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png",3Sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/low/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png" group-title="Öffentlich",3Sat
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/3sat.m3u8
 
-#EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/540p.m3u8
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Arte" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARTE.png" group-title="Öffentlich",Arte
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/arte.m3u8
 
-#EXTINF:-1 tvg-name="MDR" tvg-id="mdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png",MDR
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/low/master.m3u8
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix" tvg-logo="https://Kristus1988.github.io/tvs-logos/PHOEN.png" group-title="Öffentlich",Phoenix
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/phoenix.m3u8
 
-#EXTINF:-1 tvg-name="WDR" tvg-id="wdr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png",WDR
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/540p.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://Kristus1988.github.io/tvs-logos/tagesschau24.png" group-title="Öffentlich",tagesschau24
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/tagesschau24.m3u8
 
-#EXTINF:-1 tvg-name="SR" tvg-id="SRFernsehen.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/logos/SR.png",SR
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/master-360p-1328.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD alpha" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png" group-title="Öffentlich",ARD alpha
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/ardalpha.m3u8
 
-#EXTINF:-1 tvg-name="RBB" tvg-id="rbb.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RBB.png",RBB
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/low/master.m3u8
+#EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR Fernsehen" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png" group-title="Öffentlich",NDR Fernsehen
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/ndr.m3u8
 
-#EXTINF:-1 tvg-name="SWR" tvg-id="swr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SWR.png",SWR
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/low/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png" group-title="Öffentlich",WDR Fernsehen
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/wdr.m3u8
 
-#EXTINF:-1 tvg-name="BR" tvg-id="br.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/BR.png",BR
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/540p.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR Fernsehen" tvg-logo="https://Kristus1988.github.io/tvs-logos/BR.png" group-title="Öffentlich",BR Fernsehen
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/br.m3u8
 
-#EXTINF:-1 tvg-name="HR" tvg-id="hr.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/HR.png",HR
-https://hr-live.ard-mcdn.de/hr/live/hls/de/540p.m3u8
+#EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR Fernsehen" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png" group-title="Öffentlich",MDR Fernsehen
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/mdr.m3u8
 
-#EXTINF:-1 tvg-name="Phoenix" tvg-id="phoenix.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/PHOEN.png",Phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/480p.m3u8
+#EXTINF:-1 tvg-id="SR.de" tvg-name="SR Fernsehen" tvg-logo="https://Kristus1988.github.io/logos/SR.png" group-title="Öffentlich",SR Fernsehen
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/srf.m3u8
 
-#EXTINF:-1 tvg-name="Arte" tvg-id="arte.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARTE.png",Arte
-https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/low/master.m3u8
+#EXTINF:-1 tvg-id="RBB.de" tvg-name="RBB Fernsehen" tvg-logo="https://Kristus1988.github.io/tvs-logos/RBB.png" group-title="Öffentlich",RBB Fernsehen
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/rbb.m3u8
 
-#EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/KIKA.png",KiKa
-https://kika-live.ard-mcdn.de/kika/live/hls/de/540p.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR Fernsehen" tvg-logo="https://Kristus1988.github.io/tvs-logos/SWR.png" group-title="Öffentlich",SWR Fernsehen
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/swr.m3u8
 
-#EXTINF:-1 tvg-name="ARD+ALPHA" tvg-id="ARD-alpha.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ALPHA.png",ARD+ALPHA
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/540p.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="HR Fernsehen" tvg-logo="https://Kristus1988.github.io/tvs-logos/HR.png" group-title="Öffentlich",HR Fernsehen
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/streams/hr.m3u8
+
 
 
 # ---------------- Private / Geschützte Streams (MIT User-Agent) ----------------
