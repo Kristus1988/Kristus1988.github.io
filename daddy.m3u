@@ -3,16 +3,16 @@
 # ---------------- Öffentlich-rechtliche Sender ----------------
 
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png" group-title="Daddy",Das Erste
-https://strm.hdtvizlecanli.com/live/ard1.m3u8
+https://s6.hopslan.com/ardX/index.m3u8
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://Kristus1988.github.io/tvs-logos/ZDF.png" group-title="Daddy",ZDF
-https://strm.hdtvizlecanli.com/live/zdf.m3u8
+https://s6.hopslan.com/zdfX1/index.m3u8
 
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png" group-title="Daddy",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARTE.png" group-title="Daddy",ARTE
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master_v180.m3u8
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
 #EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix" tvg-logo="https://Kristus1988.github.io/tvs-logos/PHOEN.png" group-title="Daddy",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
@@ -24,22 +24,22 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="NDR.de" tvg-name="NDR" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png" group-title="Daddy",NDR
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 
 #EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR" tvg-logo="https://Kristus1988.github.io/tvs-logos/WDR.png" group-title="Daddy",WDR
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR" tvg-logo="https://Kristus1988.github.io/tvs-logos/BR.png" group-title="Daddy",BR
-https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR" tvg-logo="https://Kristus1988.github.io/tvs-logos/HR.png" group-title="Daddy",HR
-https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 
 #EXTINF:-1 tvg-id="MDR.de" tvg-name="MDR" tvg-logo="https://Kristus1988.github.io/tvs-logos/MDR.png" group-title="Daddy",MDR
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
 
 #EXTINF:-1 tvg-id="RBB.de" tvg-name="RBB" tvg-logo="https://Kristus1988.github.io/tvs-logos/RBB.png" group-title="Daddy",RBB
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
 
 #EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR" tvg-logo="https://Kristus1988.github.io/logos/SR.png" group-title="Daddy",SR
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
@@ -83,17 +83,17 @@ https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Daddy" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
+https://s6.hopslan.com/rtl2/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://s6.hopslan.com/
-https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+https://s6.hopslan.com/rtl2q/index.m3u8
 
 #EXTINF:-1 tvg-name="SuperRTL" tvg-id="superrtl.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/SUPER.png",SuperRTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://s6.hopslan.com/
-https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+https://s6.hopslan.com/superX/index.m3u8
 
 #EXTINF:-1 tvg-name="ORF1" tvg-id="orf1.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/ORF1.png",ORF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
