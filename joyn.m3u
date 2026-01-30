@@ -80,6 +80,6 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=dyn-sportmix-hd&stream_type
 #EXTINF:-1 tvg-name="Just Cooking" tvg-id="justcooking.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/JOYN.png",Just Cooking
 plugin://plugin.video.joyn/?mode=play_video&video_id=justcooking-hd&stream_type=LIVE
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Joyn" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
+https://stream.livestreamde.com/live/rtl.m3u8
 #EXTINF:-1 tvg-name="RTL2" tvg-id="hgtv.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
-https://strm.hdtvizlecanli.com/live/rtl2.m3u8
+https://stream.livestreamde.com/live/rtl2.m3u8
