@@ -10,6 +10,10 @@ https://stream.livestreamde.com/live/ard1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://stream.livestreamde.com/live/zdf.m3u8
 
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDFinfo" tvg-logo="https://Kristus1988.github.io/tvs-logos/ZINFO.png" group-title="Daddy",ZDFinfo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://Kristus1988.github.io/tvs-logos/3SAT.png" group-title="Daddy",3sat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
