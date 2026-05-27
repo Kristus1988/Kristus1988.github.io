@@ -130,7 +130,7 @@ plugin://plugin.video.tvnow.de/?mode=play_live&amp;channel_id=rtl&amp;content_id
 https://s6.hopslan.com/rtla1/index.m3u8
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?action=playLiveStream&channel_id=rtlzwei
+PlayMedia("plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=rtlzwei&amp;content_id=&amp;title=rtlzwei")
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/rtl2q/index.m3u8
