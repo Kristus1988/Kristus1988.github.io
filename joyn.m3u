@@ -133,7 +133,7 @@ https://s6.hopslan.com/rtl2q/index.m3u8
 plugin://plugin.video.tvnow.de/?mode=play_live&amp;channel_id=rtl&amp;content_id=&amp;title=rtl
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_video&video_id=rtlzwei&stream_type=LIVE
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlzwei&content_id=&title=rtlzwei
 #EXTINF:-1 tvg-name="Nitro" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL-N.png",Nitro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.tvnow.de/?mode=play_live&amp;channel_id=nitro&amp;content_id=&amp;title=nitro
