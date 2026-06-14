@@ -26,6 +26,9 @@ plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl&content_id=&title=r
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlzwei&content_id=&title=rtlzwei
+#EXTINF:-1 tvg-name="RTLUP" tvg-id="rtl.de" group-title="Joyn" tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png",RTLUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl&content_id=&title=rtlup
 #EXTINF:-1 tvg-name="Nitro" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL-N.png",Nitro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.rtlplus/?mode=play_live&channel_id=nitro&content_id=&title=nitro
