@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 #EXTINF:-1 group-title="vavoo",NETFLIX STORE
 plugin://plugin.video.vavooto/?name=NETFLIX STORE
 #EXTINF:-1 group-title="vavoo",1-2-3 TV
