@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 #EXTINF:-1 tvg-name="Das Erste" tvg-id="ard.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/ARD.png",Das Erste
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&video_id=daserste-de-hd&stream_type=LIVE
