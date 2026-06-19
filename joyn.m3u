@@ -17,6 +17,12 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=kabeleins-de&stream_type=LI
 #EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1.png",SAT.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&video_id=sat1-de&stream_type=LIVE
+#EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Daddy" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/rtla111/index.m3u8
+#EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:-1 tvg-name="VOX" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOX.png",VOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.rtlplus/?mode=play_live&channel_id=vox&content_id=&title=vox
