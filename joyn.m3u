@@ -17,30 +17,15 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=kabeleins-de&stream_type=LI
 #EXTINF:-1 tvg-name="SAT.1" tvg-id="Sat1.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1.png",SAT.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&video_id=sat1-de&stream_type=LIVE
-#EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Daddy" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
+#EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Joyn" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/rtla111/index.m3u8
-#EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Daddy" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
+#EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTINF:-1 tvg-name="VOX" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOX.png",VOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/voxz/index.m3u8
-#EXTINF:-1 tvg-name="VOX" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOX.png",VOX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=vox&content_id=&title=vox
-#EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Joyn" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl&content_id=&title=rtl
-#EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlzwei&content_id=&title=rtlzwei
-#EXTINF:-1 tvg-name="RTLUP" tvg-id="rtlup.de" group-title="Joyn" tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png",RTLUP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlup&content_id=&title=rtlup
-#EXTINF:-1 tvg-name="Nitro" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL-N.png",Nitro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=nitro&content_id=&title=nitro
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SIXX.png",sixx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&video_id=sixx-de&stream_type=LIVE
@@ -152,3 +137,18 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=dyn-sportmix-hd&stream_type
 #EXTINF:-1 tvg-name="Just Cooking" tvg-id="justcooking.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/JOYN.png",Just Cooking
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.joyn/?mode=play_video&video_id=justcooking-hd&stream_type=LIVE
+#EXTINF:-1 tvg-name="VOX" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOX.png",VOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=vox&content_id=&title=vox
+#EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl&content_id=&title=rtl
+#EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlzwei&content_id=&title=rtlzwei
+#EXTINF:-1 tvg-name="RTLUP" tvg-id="rtlup.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png",RTLUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlup&content_id=&title=rtlup
+#EXTINF:-1 tvg-name="Nitro" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL-N.png",Nitro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=nitro&content_id=&title=nitro
