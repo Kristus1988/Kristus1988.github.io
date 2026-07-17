@@ -28,7 +28,7 @@ plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl&content_id=&title=r
 plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlzwei&content_id=&title=rtlzwei
 #EXTINF:-1 tvg-name="SUPER RTL" tvg-id="superrtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png",SUPER RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=superrtl&content_id=&title=superrtl
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=super_rtl&content_id=&title=Super%2BRTL
 #EXTINF:-1 tvg-name="RTLUP" tvg-id="rtlup.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/tvs-logos/RTLPL.png",RTLUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlup&content_id=&title=rtlup
