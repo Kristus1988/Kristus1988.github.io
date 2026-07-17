@@ -50,7 +50,7 @@ plugin://plugin.video.rtlplus/?mode=play_live&channel_id=fast08&content_id=&titl
 #EXTINF:-1 tvg-name="RTL COMEDY" tvg-id="rtlcrime.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL-C.png",RTL COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.rtlplus/?mode=play_live&channel_id=fast04&content_id=&title=RTL+Comedy
-#EXTINF:-1 tvg-name="NOW" tvg-id="rtlnow.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/TVNOW.png",NOW
+#EXTINF:-1 tvg-name="NOW" tvg-id="rtlnow.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/NOWUS.png",NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 plugin://plugin.video.rtlplus/?mode=play_live&channel_id=now&content_id=&title=NOW+HD
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SIXX.png",sixx
