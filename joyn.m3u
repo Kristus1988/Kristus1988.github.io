@@ -26,15 +26,15 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=sat1-de&stream_type=LIVE
 
 #EXTINF:-1 tvg-name="VOX" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOX.png",VOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=vox&content_id=&title=vox
+plugin://plugin.video.moviescout/?action=liveTVPlay&amp;ch_id=de%3A27&amp;name=VOX
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/logos/rtl.png",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl&content_id=&title=rtl
+plugin://plugin.video.moviescout/?action=liveTVPlay&amp;ch_id=de%3A20&amp;name=RTL
 
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/rtlzwei.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlzwei&content_id=&title=rtlzwei
+plugin://plugin.video.moviescout/?action=liveTVPlay&amp;ch_id=de%3A24&amp;name=RTL2
 
 #EXTINF:-1 tvg-name="SUPER RTL" tvg-id="superrtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/logos/rtlsuper.png",SUPER RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
