@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz"
 
 #EXTINF:-1 tvg-name="RTL 2 HD" tvg-id="RTL2.de" tvg-logo="https://bedrock.tech",01 | RTL2+ Free Live [HD]
-plugin://plugin.video.moviescout/?action=browsePlay&site=rtlfree&hname=RTL%2BFree+Live&hurl=https%3A%2F%2Forigin.live.rtlde.bedrock.tech%2Fout%2Fv1%2Frtlde%2Frtlde-rtlzwei%2Fcmaf_cenc71%2Fdash-short-hd720.mpd&resolved=0&drm=%7B%22drm_type%22%3A%22widevine%22%2C%22drm_license%22%3A%22https%3A%2F%://drmtoday.com%2Flicense-proxy-widevine%2Fcenc%2F%22%7D
+plugin://plugin.video.moviescout/?action=browsePlay&site=rtlfree&hname=RTL%2BFree+Live&hurl=https%3A%2F%2Forigin.live.rtlde.bedrock.tech%2Fout%2Fv1%2Frtlde%2Frtlde-rtlzwei%2Fcmaf_cenc71%2Fdash-short-hd720.mpd&resolved=0&drm=%7B%22drm_type%22%3A%22widevine%22%2C%22drm_license%22%3A%22https%3A%2F%2Fdrmtoday.com%2Flicense-proxy-widevine%2Fcenc%2F%22%7D
 
 #EXTINF:-1 group-title="vavoo",]]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
