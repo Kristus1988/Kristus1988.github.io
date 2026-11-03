@@ -234,7 +234,7 @@ https://s6.hopslan.com/voxz/index.m3u8
 
 
 #EXTINF:-1 tvg-name="RTL HD" group-title="RTL",RTL HD
-utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artl",return))
+PlayMedia("plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artl")
 
 #EXTINF:-1 tvg-name="VOX HD" group-title="RTL",VOX HD
 utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3avox",return))
