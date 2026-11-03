@@ -222,7 +222,7 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=justcooking-hd&stream_type=
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="Joyn" tvg-logo="https://kristus1988.github.io/tvs-logos/RTL.png",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-https://s6.hopslan.com/rtla111/index.m3u8
+PlayMedia("plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artl")
 
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/RTL2.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
