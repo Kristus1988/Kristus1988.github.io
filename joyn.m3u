@@ -26,51 +26,51 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=sat1-de&stream_type=LIVE
 
 #EXTINF:-1 tvg-name="VOX" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOX.png",VOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3avox",return))
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=vox&title=VOX%2BHD
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/logos/rtl.png",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=rtl&amp;title=RTL%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl&title=RTL%2BHD
 
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/rtlzwei.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=rtlzwei&amp;title=RTLZWEI%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlzwei&title=RTLZWEI%2BHD
 
 #EXTINF:-1 tvg-name="SUPER RTL" tvg-id="superrtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/logos/rtlsuper.png",SUPER RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=super_rtl&amp;title=Super%2BRTL
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=super_rtl&title=Super%2BRTL
 
 #EXTINF:-1 tvg-name="RTLUP" tvg-id="rtlup.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/logos/rtlup.png",RTLUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=rtlup&amp;title=RTLup%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtlup&title=RTLup%2BHD
 
 #EXTINF:-1 tvg-name="Nitro" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/rtlnitro.png",Nitro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=nitro&amp;title=NITRO%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=nitro&title=NITRO%2BHD
 
 #EXTINF:-1 tvg-name="RTL CRIME" tvg-id="rtlcrime.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/rtlcrime.png",RTL CRIME
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=rtl_crime&amp;title=RTL%2BCrime%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl_crime&title=RTL%2BCrime%2BHD
 
 #EXTINF:-1 tvg-name="RTL PASSION" tvg-id="rtlpassion.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/rtlpassion.png",RTL PASSION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=rtl_passion&amp;title=RTL%2BPassion%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl_passion&title=RTL%2BPassion%2BHD
 
 #EXTINF:-1 tvg-name="RTL LIVING" tvg-id="rtlcrime.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/rtlliving.png",RTL LIVING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=rtl_living&amp;title=RTL%2BLiving%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=rtl_living&title=RTL%2BLiving%2BHD
 
 #EXTINF:-1 tvg-name="RTL SHINE" tvg-id="rtlshine.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/cdnlogo.com_rtl-shine-logo.png",RTL SHINE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=fast08&amp;title=RTL%2BShine
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=fast08&title=RTL%2BShine
 
 #EXTINF:-1 tvg-name="RTL COMEDY" tvg-id="rtlcrime.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/cdnlogo.com_rtl-comedy-logo.png",RTL COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=fast04&amp;title=RTL%2BComedy
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=fast04&title=RTL%2BComedy
 
 #EXTINF:-1 tvg-name="NOW" tvg-id="rtlnow.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/NOWUS.png",NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=now&amp;title=NOW%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=now&title=NOW%2BHD
 
 #EXTINF:-1 tvg-name="sixx" tvg-id="sixx.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SIXX.png",sixx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
@@ -86,7 +86,7 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=prosiebenmaxx-de&stream_typ
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/NTV.png",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=ntv&amp;title=ntv%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=ntv&title=ntv%2BHD
 
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
@@ -122,7 +122,7 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=hr-de-hd&stream_type=LIVE
 
 #EXTINF:-1 tvg-name="VOXUP" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOXUP.png",VOXUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&amp;channel_id=voxup&amp;title=VOXup%2BHD
+plugin://plugin.video.rtlplus/?mode=play_live&channel_id=voxup&title=VOXup%2BHD
 
 #EXTINF:-1 tvg-name="SAT.1 GOLD" tvg-id="sateinsgold.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1G.png",SAT.1 GOLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
