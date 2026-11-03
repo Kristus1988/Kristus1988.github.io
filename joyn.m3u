@@ -30,7 +30,7 @@ plugin://plugin.video.xvault/?action=liveTVPlay&id=1670046236&pvr=1
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/logos/rtl.png",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.xvault/?action=liveTVPlay&id=2728959195&pvr=1
+plugin://plugin.video.moviescout/?action=browseHosterList&amp;extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&amp;site=rtlfree&amp;url=live%3artl
 
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/rtlzwei.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
