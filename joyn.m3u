@@ -86,7 +86,7 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=prosiebenmaxx-de&stream_typ
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/NTV.png",NTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=ntv&content_id=&title=ntv
+plugin://plugin.video.xvault/?action=liveTVPlay&id=3784998028&pvr=1
 
 #EXTINF:-1 tvg-name="NDR" tvg-id="ndr.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/N3.png",NDR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
@@ -122,7 +122,7 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=hr-de-hd&stream_type=LIVE
 
 #EXTINF:-1 tvg-name="VOXUP" tvg-id="rtl2.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOXUP.png",VOXUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.rtlplus/?mode=play_live&channel_id=voxup&content_id=&title=voxup
+plugin://plugin.video.xvault/?action=liveTVPlay&id=376397075&pvr=1
 
 #EXTINF:-1 tvg-name="SAT.1 GOLD" tvg-id="sateinsgold.de" group-title="Joyn" tvg-logo="https://Kristus1988.github.io/tvs-logos/SAT1G.png",SAT.1 GOLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
