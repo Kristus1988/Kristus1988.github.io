@@ -26,15 +26,15 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=sat1-de&stream_type=LIVE
 
 #EXTINF:-1 tvg-name="VOX" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/tvs-logos/VOX.png",VOX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3avox
+utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3avox",return))
 
 #EXTINF:-1 tvg-name="RTL" tvg-id="rtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/logos/rtl.png",RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artl
+utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artl",return))
 
 #EXTINF:-1 tvg-name="RTL2" tvg-id="rtl2.de" group-title="RTL+" tvg-logo="https://Kristus1988.github.io/logos/rtlzwei.png",RTL ZWEI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
-plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artlzwei
+utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artlzwei",return))
 
 #EXTINF:-1 tvg-name="SUPER RTL" tvg-id="superrtl.de" group-title="RTL+" tvg-logo="https://kristus1988.github.io/logos/rtlsuper.png",SUPER RTL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
@@ -232,3 +232,12 @@ https://s6.hopslan.com/rtl2q/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.208 Mobile Safari/537.36
 https://s6.hopslan.com/voxz/index.m3u8
 
+
+#EXTINF:-1 tvg-name="RTL HD" group-title="RTL",RTL HD
+utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artl",return))
+
+#EXTINF:-1 tvg-name="VOX HD" group-title="RTL",VOX HD
+utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3avox",return))
+
+#EXTINF:-1 tvg-name="RTLZWEI HD" group-title="RTL",RTLZWEI HD
+utils.executebuiltin(ActivateWindow(10025,"plugin://plugin.video.moviescout/?action=browseHosterList&extra=%7b%22season%22%3a%200%2c%20%22episode%22%3a%200%7d&site=rtlfree&url=live%3artlzwei",return))
